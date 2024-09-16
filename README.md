@@ -17,7 +17,7 @@ You can find our site [here](https://pstreamer.tv) or read the [documentation](h
 
 There is also 30-days trial-version without any limitations.
 
-## Installation
+## Installation of paid version
 
 ### Install to Redhat family  (el7, el8)
 
