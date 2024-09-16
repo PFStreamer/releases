@@ -8,7 +8,7 @@ Also, standard transport protocols Pro-MPEG, SRT and RIST are supported. This al
 Perfect Streamer® is a powerful software for delivering video streams over the public Internet using the transport protocols SRT, RIST, HLS, ProMpeg, PS1 and many others. 
 The program has the functionality of stream reservation, EPG server, Multiplexor and Demultiplexor, EIT generator, professional analyzer, charts, AES encryption, mosaic, modification of metadata in MPEG-TS, works with DVB cards, etc. Unique functions of stream synchronization and jitter elimination, correction of PCR marks in the video stream. Integration with monitoring systems Zabbix, Grafana and others. There is a free Demo version for 10 streams and a fully functional paid version.
 
-You can find our site [here](https://pstreamer.tv) or read [documentation](http://doc.pstreamer.tv/en/index.html).
+You can find our site [here](https://pstreamer.tv) or read the [documentation](http://doc.pstreamer.tv/en/index.html).
 
 ## Demo version features
 - Limited by 10 streams
