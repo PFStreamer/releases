@@ -21,7 +21,7 @@ There is also 30-days trial-version without any limitations.
 
 ## Installation of paid version
 
-### Install to Redhat family  (el7, el8)
+### Install to Redhat family  el8 & 9
 
 Install pstreamer repo (el7):
 ```
