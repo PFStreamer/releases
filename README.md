@@ -15,6 +15,8 @@ You can find our site [here](https://pstreamer.tv) or read the [documentation](h
 - No limitations of functionality
 - No time limitations
 
+Demo versions are published in this repository [releases](https://github.com/PFStreamer/releases/releases).
+
 There is also 30-days trial-version without any limitations.
 
 ## Installation of paid version
