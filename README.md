@@ -7,6 +7,11 @@ Also, standard transport protocols Pro-MPEG, SRT and RIST are supported. This al
 
 You can find our site [here](https://pstreamer.tv) or read [documentation](http://doc.pstreamer.tv/en/index.html).
 
+## Demo version features
+- Limited by 10 streams
+- No limitations of functionality
+- No time limitations
+
 ## Installation
 
 ### Install to Redhat family  (el7, el8)
