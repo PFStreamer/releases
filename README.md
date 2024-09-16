@@ -21,13 +21,13 @@ There is also 30-days trial-version without any limitations.
 
 ## Installation of paid version
 
-### Install to Redhat family  el8 & 9
+### Install to RHEL family
 
-Install pstreamer repo (el7):
+Install pstreamer repo (RHEL 7):
 ```
 $ sudo yum-config-manager --add-repo=http://repo.pstreamer.tv/pub/pstreamer/pstreamer.repo
 ```
-or el8:
+or RHEL 8 and 9:
 ```
 $ sudo yum config-manager --add-repo=http://repo.pstreamer.tv/pub/pstreamer/pstreamer.repo
 ```
